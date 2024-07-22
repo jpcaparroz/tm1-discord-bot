@@ -10,7 +10,7 @@ To initiate bot service, the archive `.env` must be fill, like below:
 
 [.env](/.env)
 ```
-BOT_TOKEN=MTI2NDc2MTM5NTE1Nzc5NDg3Nw.GZ7jQW.FDErertfrev3423cxzd-RM0GxfQmw     # [string] Bot token
+BOT_TOKEN=<token>     # [string] Bot token
 ```
 
 <br> 
